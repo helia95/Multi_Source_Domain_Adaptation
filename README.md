@@ -1,7 +1,6 @@
-# Multi-Source Domain Adaptation
+#### Final project of Deep Learning for Computer Vision course
 
-# Usage:
-To start with this project, please get the dataset first.
+# Multi-Source Domain Adaptation
 
 ### Dataset
 For users that have wget, simply use the following command.
